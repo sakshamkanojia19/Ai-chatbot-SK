@@ -22,14 +22,14 @@ import {
   Send,
   Loader2,
   ArrowDownCircleIcon,
-  icons,
+  
 } from "lucide-react";
 
 import { motion, AnimatePresence } from "framer-motion";
 import { useChat } from "@ai-sdk/react";
 
 import LandingSections from "@/components/LandingSections";
-import { ChildProcess } from "child_process";
+
 
 export default function Chat() {
   const [isChatOpen, setIsChatOpen] = useState(false);

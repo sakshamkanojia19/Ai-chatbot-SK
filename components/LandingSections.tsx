@@ -10,7 +10,7 @@ import {
   CardHeader,
   CardTitle,
 } from "./ui/card";
-import { Check, X } from "lucide-react";
+import { Check} from "lucide-react";
 
 // Swipe-up animation for the symbol
 const swipeUpVariants = {
