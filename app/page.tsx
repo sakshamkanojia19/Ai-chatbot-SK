@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, Children } from "react";
+import { useState, useEffect, useRef } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGFfm from "remark-gfm";
 
